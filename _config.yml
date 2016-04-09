@@ -1,7 +1,7 @@
 name: BAWK-E Technologies
 favicon: null
-layout_spectrum: 0.6687787091359496
-typography_spectrum: 0.1606569243595004
+layout_spectrum: 0.67472
+typography_spectrum: 0.70323
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.6048900820314884
-  lightness: 0.1913525671698153
-  saturation: 0.12063997681252658
-  rhythmicContrast: 0.11948271095752716
+  brandStrength: 0.75
+  lightness: 0.375
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
