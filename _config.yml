@@ -1,0 +1,28 @@
+name: BAWK-E Technologies
+favicon: null
+layout_spectrum: 0.6687787091359496
+typography_spectrum: 0.1606569243595004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6048900820314884
+  lightness: 0.1913525671698153
+  saturation: 0.12063997681252658
+  rhythmicContrast: 0.11948271095752716
+purpose: []
